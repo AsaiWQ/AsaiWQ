@@ -1,0 +1,29 @@
+{
+    "git.autofetch": true,
+    "editor.tabSize": 4, 
+    "editor.fontSize": 16, 
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.allowForcePush": true,
+    "vetur.validation.template": false,
+    "explorer.confirmDelete": false,
+    "vetur.format.options.tabSize": 4,
+    "editor.detectIndentation": false, 
+    "editor.formatOnSave": true, 
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true, 
+    "vetur.format.defaultFormatter.html": "js-beautify-html",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 200,
+    "vetur.format.defaultFormatterOptions": {
+        "js-beautify-html": {
+            "wrap_attributes": "auto"
+
+        },
+        "prettyhtml": {
+            "printWidth": 100,
+            "singleQuote": false,
+            "wrapAttributes": false,
+            "sortAttributes": false
+        }
+    }
+}

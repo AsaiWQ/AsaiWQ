@@ -1,0 +1,261 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1132",
+      "name": "字体",
+      "font_class": "ziti",
+      "unicode": "f00cb",
+      "unicode_decimal": 983243
+    },
+    {
+      "icon_id": "577352",
+      "name": "清除",
+      "font_class": "qingchu",
+      "unicode": "e747",
+      "unicode_decimal": 59207
+    },
+    {
+      "icon_id": "577384",
+      "name": "信息",
+      "font_class": "xinxi",
+      "unicode": "e763",
+      "unicode_decimal": 59235
+    },
+    {
+      "icon_id": "725773",
+      "name": "关于我们",
+      "font_class": "guanyuwomen",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "796439",
+      "name": "房屋信息",
+      "font_class": "fangwuxinxi",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "1280770",
+      "name": "图标-电池满",
+      "font_class": "tubiao-dianchiman",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "1280783",
+      "name": "图标-电池框",
+      "font_class": "tubiao-dianchikuang",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "2076235",
+      "name": " 常用信息",
+      "font_class": "changyongxinxi",
+      "unicode": "e886",
+      "unicode_decimal": 59526
+    },
+    {
+      "icon_id": "2121727",
+      "name": "会议",
+      "font_class": "huiyi",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "2675116",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "4354835",
+      "name": "闭眼睛",
+      "font_class": "biyanjing",
+      "unicode": "e901",
+      "unicode_decimal": 59649
+    },
+    {
+      "icon_id": "4399999",
+      "name": "统计",
+      "font_class": "tongji",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "4562822",
+      "name": "铃铛",
+      "font_class": "lingdang",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "4933419",
+      "name": "文件",
+      "font_class": "wenjian",
+      "unicode": "e760",
+      "unicode_decimal": 59232
+    },
+    {
+      "icon_id": "5387481",
+      "name": "问号",
+      "font_class": "wenhao",
+      "unicode": "eae2",
+      "unicode_decimal": 60130
+    },
+    {
+      "icon_id": "5387553",
+      "name": "搜索",
+      "font_class": "sousuo1",
+      "unicode": "eafe",
+      "unicode_decimal": 60158
+    },
+    {
+      "icon_id": "5766824",
+      "name": "信号",
+      "font_class": "xinhao",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "6337686",
+      "name": "信封",
+      "font_class": "xinfeng",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "6907913",
+      "name": "提交成功",
+      "font_class": "tijiaochenggong",
+      "unicode": "e72e",
+      "unicode_decimal": 59182
+    },
+    {
+      "icon_id": "7179376",
+      "name": "工具箱",
+      "font_class": "gongjuxiang",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "7325955",
+      "name": "记录_",
+      "font_class": "jilu_",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "8219252",
+      "name": "文件_excel",
+      "font_class": "wenjian_excel",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "8219253",
+      "name": "文件_txt",
+      "font_class": "wenjian_txt",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "8219254",
+      "name": "文件_ppt",
+      "font_class": "wenjian_ppt",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "8219258",
+      "name": "文件_pdf",
+      "font_class": "wenjian_pdf",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "8219259",
+      "name": "文件_word",
+      "font_class": "wenjian_word",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "8281990",
+      "name": "健康",
+      "font_class": "jiankang",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "8870954",
+      "name": "业务",
+      "font_class": "yewu",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "9512610",
+      "name": "文件-图片",
+      "font_class": "file-image-fill",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "10549621",
+      "name": "考勤管理",
+      "font_class": "kaoqinguanli",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "11372701",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e8b9",
+      "unicode_decimal": 59577
+    },
+    {
+      "icon_id": "12320602",
+      "name": "圆",
+      "font_class": "yuan",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "12592403",
+      "name": "更新",
+      "font_class": "gengxin",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "16364330",
+      "name": "地球",
+      "font_class": "diqiu",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "18169966",
+      "name": "信号",
+      "font_class": "phone-signal-full",
+      "unicode": "e956",
+      "unicode_decimal": 59734
+    },
+    {
+      "icon_id": "23442249",
+      "name": "icon_应急新闻",
+      "font_class": "icon_yingjixinwen",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    }
+  ]
+}
